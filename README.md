@@ -40,11 +40,13 @@ Thank you for taking the time to get to know me a bit better. I look forward to 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/222989333-5b4d28ef-6898-4a29-9fca-5d90b1a319e0.png" height="100"/>CMS GRAMMAR SCHOOL</h2>
 <h3> Secondary School Education</h3>
 <p>Cms Grammar School is a missionary secondary school located in Nigeria. It is the first secondary school in Nigerai and Africa. It was founded by Thomas Babington Macaulay in the year june 6th 1859. </p>
+<p> UP SCHOOL !! UP BOYS !!</p>
 
 <h2 align="right"><img src="https://user-images.githubusercontent.com/122843056/222989639-97ed9d78-0737-4b24-bcfb-51904e3d694e.png" height="100"/>THE UNIVERSITY OF
 MEMPHIS</h2>
 <h3 align="left">College Education (currently)</h3>
 <p>The University of Memphis is a public research university located in Memphis, Tennessee. It was founded in 1912. The school's first president was Seymour A. Mynders, who served from 1912 to 1913. It is a diverse community of well rounded individuals who are hungry for knowledge and growth. The culture is immersive and it is known as the HOME OF THE TIGERS <img src="https://user-images.githubusercontent.com/122843056/222990133-5114dfd1-58b7-4d74-b39e-3e6da1a50f0a.png" height="50" top="-20"/> rich in music, food and history. I am currently a major in health science and i would be building my path to becoming an anesthesiologist which is my passion asides from technology. </p>
+<p> GO TIGERS !!</p>
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/222991085-c59fbae4-9cde-46a7-9fb5-029609f39b37.png" height="100"/></h2>
 
