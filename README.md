@@ -65,6 +65,10 @@ Furthermore, the integration of technology in medicine has led to the creation o
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+<div align="center">
 <h2> FUN FACT </h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=19&pause=1000&color=F70000&width=435&lines=BIG+FAN+OF+ALVIN+AND+THE+CHIPMUNKS;BIG+FAN+OF+THE+MINIONS)](https://git.io/typing-svg)
@@ -77,8 +81,6 @@ Furthermore, the integration of technology in medicine has led to the creation o
 </div>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/122843056/222992067-f3d05bc4-769e-412b-9be1-00fa7356e74b.gif" height="300"/></h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=C20000&width=435&lines=THE+PARV-LUMINACY)](https://git.io/typing-svg)
 
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="100"/>MY NOBIES</h3>
 
