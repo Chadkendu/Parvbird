@@ -70,7 +70,6 @@ Furthermore, the integration of technology in medicine has led to the creation o
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F70202&width=435&lines=BIG+FAN+OF+ALVIN+AND+CHIPMUNKS+!!)](https://git.io/typing-svg)
 <h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/223071151-4c25b500-d3cf-40cc-925e-c784fb048673.png" height="100"/>ALVIN AND THE CHIPMUNKS</h2>
 
-
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
