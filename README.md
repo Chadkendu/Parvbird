@@ -77,4 +77,11 @@ Furthermore, the integration of technology in medicine has led to the creation o
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/122843056/222992067-f3d05bc4-769e-412b-9be1-00fa7356e74b.gif" height="300"/></h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=C20000&width=435&lines=THE+PARV-LUMINACY)](https://git.io/typing-svg)
+
+<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="100"/>MY NOBIES</h3>
+
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+</div>
 
