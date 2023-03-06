@@ -43,7 +43,7 @@ Thank you for taking the time to get to know me a bit better. I look forward to 
 
 <h2 align="right"><img src="https://user-images.githubusercontent.com/122843056/222989639-97ed9d78-0737-4b24-bcfb-51904e3d694e.png" height="100"/>THE UNIVERSITY OF
 MEMPHIS</h2>
-<h3 align="right">College Education (currently)</h3>
+<h3 align="left">College Education (currently)</h3>
 <p>The University of Memphis is a public research university located in Memphis, Tennessee. It was founded in 1912. The school's first president was Seymour A. Mynders, who served from 1912 to 1913. It is a diverse community of well rounded individuals who are hungry for knowledge and growth. The culture is immersive and it is known as the HOME OF THE TIGERS <img src="https://user-images.githubusercontent.com/122843056/222990133-5114dfd1-58b7-4d74-b39e-3e6da1a50f0a.png" height="50" top="-20"/> rich in music, food and history. I am currently a major in health science and i would be building my path to becoming an anesthesiologist which is my passion asides from technology. </p>
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/222991085-c59fbae4-9cde-46a7-9fb5-029609f39b37.png" height="100"/></h2>
@@ -63,4 +63,16 @@ Furthermore, the integration of technology in medicine has led to the creation o
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
 
+<h2> FUN FACT </h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F70202&width=435&lines=BIG+FAN+OF+ALVIN+AND+CHIPMUNKS+!!)](https://git.io/typing-svg)
+<h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/223071151-4c25b500-d3cf-40cc-925e-c784fb048673.png" height="100"/>ALVIN AND THE CHIPMUNKS</h2>
+
+
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+</div>
+
 <h2 align="center"><img src="https://user-images.githubusercontent.com/122843056/222992067-f3d05bc4-769e-412b-9be1-00fa7356e74b.gif" height="300"/></h2>
+
+
