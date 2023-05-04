@@ -86,6 +86,5 @@ Furthermore, the integration of technology in medicine has led to the creation o
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/227564788-dff0ef46-88c7-40b1-95f8-b58703461579.png" height="60"/>The C Programming language</h2>
-<h2 align="right"><img src="https://user-images.githubusercontent.com/122843056/227566724-f4bcaaf0-ea07-420f-a686-83d69e786b22.png" height="60"/>The Bourne Again Shell (BASH)</h2>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
