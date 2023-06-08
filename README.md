@@ -46,10 +46,6 @@ MEMPHIS</h2>
 <h3 align="right">College Education (currently)</h3>
 <p align="right"> GO TIGERS !!</p>
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/222991085-c59fbae4-9cde-46a7-9fb5-029609f39b37.png" height="100"/></h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=MOST+ASKED+QUESTION+!!!)](https://git.io/typing-svg)
-
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
