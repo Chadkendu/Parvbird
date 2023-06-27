@@ -31,25 +31,6 @@ Thank you for taking the time to get to know me a bit better. I look forward to 
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
 
-<h1 align="center">
-  EDUCATION HISTORY.
-</h1>
-
-
-
-<h2 align="left"><img src="https://user-images.githubusercontent.com/122843056/222989333-5b4d28ef-6898-4a29-9fca-5d90b1a319e0.png" height="100"/>CMS GRAMMAR SCHOOL</h2>
-<h3> Secondary School Education</h3>
-<p> UP SCHOOL !! UP BOYS !!</p>
-
-<h2 align="right"><img src="https://user-images.githubusercontent.com/122843056/222989639-97ed9d78-0737-4b24-bcfb-51904e3d694e.png" height="100"/>THE UNIVERSITY OF
-MEMPHIS</h2>
-<h3 align="right">College Education (currently)</h3>
-<p align="right"> GO TIGERS !!</p>
-
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
