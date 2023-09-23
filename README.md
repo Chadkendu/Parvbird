@@ -22,7 +22,9 @@
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/122843056/222992067-f3d05bc4-769e-412b-9be1-00fa7356e74b.gif" height="300"/></h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/122843056/222992067-f3d05bc4-769e-412b-9be1-00fa7356e74b.gif" height="300"/>
+</h2>
 
 <h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" height="100"/>MY NOBIES</h3>
 
