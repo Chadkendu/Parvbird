@@ -1,5 +1,5 @@
 <h1 align="center">
-  WELCOME TO THE PARV-CELL.
+  WELCOME
 </h1>
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Parv-cell</h3>
 
