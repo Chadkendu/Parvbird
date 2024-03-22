@@ -1,10 +1,12 @@
 <h1 align="center">
-  WELCOME
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&random=false&width=1000&lines=Welcome)](https://git.io/typing-svg)
+
 </h1>
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Parv-cell</h3>
 
 ![8823-surroundedbyhearts (1)](https://user-images.githubusercontent.com/122843056/222825850-75f1bba2-98ba-4c76-8b26-8469d5ffe47b.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&random=false&width=435&lines=Welcome)](https://git.io/typing-svg)
+
 ![8823-surroundedbyhearts (1)](https://user-images.githubusercontent.com/122843056/222825850-75f1bba2-98ba-4c76-8b26-8469d5ffe47b.gif)
 <h3 align="center">
   
