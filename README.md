@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Parv-cell</h1>
+<h1 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> </h1>
 
 
 <h1 align="center">
